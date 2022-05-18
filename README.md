@@ -1,5 +1,7 @@
 Version                                          :   1.0
 _______________________________________________________________________________
+[*] Note : Read The "ReadMe(Extraction).txt" before going to extract [*]
+_______________________________________________________________________________
 How To Use :-  
 
 Did You Get A Shortened Link
