@@ -1,1 +1,38 @@
-# Shortened-URL-Finder
+Version                                          :   1.0
+_______________________________________________________________________________
+How To Use :-  
+
+Did You Get A Shortened Link
+
+Something Like This : https://bit.ly/3FCyEJO (or) https://cutt.ly/JHaf9XR
+_______________________________________________________________________________
+Don't worry anymore to click the link
+Find The Hidden Link Without Actually Opening It :-
+
+~ Make Sure You Are Connected To The Internet
+
+~ Enter The Link That You Received In The Input Area 
+  [Not On The 2nd Input Box (Original URL :) Area]
+
+~  Click On The Start Scanning Button
+
+~  Scanning Will Begin And Complete Within Few 
+   Seconds If You Even Have A Average Network Connection
+
+~  Once The Original Link Is Displayed Make Sure You Are
+   Safe To Open The Link
+
+~  Click On Go To URL Option To Open The URL On Your 
+   Default Browser
+_______________________________________________________________________________
+That's It You Just Found How to Use My Application
+
+Make Sure You Are Up to Date
+
+Thanks For Using My Application
+_______________________________________________________________________________
+Creator                                          :   A.Dhakshan
+
+Origin                                            :   Tamil Nadu, India 
+
+Contact                                         :   dcomtech101@gmail.com
